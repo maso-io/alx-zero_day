@@ -1,1 +1,1 @@
-This is an alx-zero repo
+This is an alx-zero reposotiry.
